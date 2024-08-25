@@ -1,4 +1,3 @@
-Here's a README for the ESP32-CAM:
 
 ---
 
@@ -38,7 +37,7 @@ Here's a README for the ESP32-CAM:
       The ESP32-CAM is a compact and powerful microcontroller with built-in Wi-Fi, Bluetooth, and a camera module. It is ideal for IoT projects, embedded systems, and applications that require video streaming, image processing, and wireless communication.
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/ab/29/84/ab29848a8774f0708d360fa81af512b1.png" alt="ESP32-CAM" width="1200px">
+      <img src="https://www.tinytronics.nl/image/cache/data/product-2132/ESP32CAM_1-1500x1500.jpg" alt="ESP32-CAM" width="1200px">
     </td>
   </tr>
 
@@ -97,7 +96,7 @@ Here's a README for the ESP32-CAM:
 
 The diagram below shows the pinout of the ESP32-CAM. Use General Purpose Input Output (GPIO) Pins to receive input from sensors or control peripherals. 
 
-<img src="https://esphome.io/_images/esp32_cam_pins.png" alt="ESP32-CAM Pinout" width="500px">
+<img src="https://lastminuteengineers.b-cdn.net/wp-content/uploads/iot/ESP32-CAM-Pinout.png" alt="ESP32-CAM Pinout" width="500px">
 
 ### Writing and Uploading Code
 
@@ -189,12 +188,12 @@ void loop() {
 
 The ESP32-CAM is a versatile and powerful microcontroller with a camera module, suitable for various projects, especially those involving video streaming and image processing. Whether you're building an IoT device or experimenting with embedded systems, the ESP32-CAM provides the capabilities you need.
 
-For more information, visit the [ESP32-CAM Documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32.html).
+For more information, visit the [ESP32-CAM Datasheet](https://github.com/raphaelbs/esp32-cam-ai-thinker/blob/master/assets/ESP32-CAM_Product_Specification.pdf).
 
 ### More Tutorials
 
 Here's a list of other tutorials that you can try with the pins. Some of these sensors are in the Lab with you. 
 
-- Getting Distance with the HR-SR04 [Tutorial Link](https://randomnerdtutorials.com/esp32-hc-sr04-ultrasonic-arduino/) 
+- A list of 10+ tutorials [Tutorial Link](https://randomnerdtutorials.com/projects-esp32-cam/) 
 
 ---
